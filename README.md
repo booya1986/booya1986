@@ -2,7 +2,11 @@
 
 #### 🙋‍♂️ About me
 
-I'm a Learning and Development Team Leader with a strong focus on artificial intelligence and innovative product development. I'm passionate about transforming solutions using modern AI approaches and building impactful products.
+I’m a learning & development leader in a large bank in Israel, focused on building learning systems and experiences that actually move the needle in the business. Over the last few years, I’ve been living at the intersection of:
+
+- **L&D strategy** (skills, performance, adoption, measurement)
+- **Learning tech** (LMS, analytics, workflows, automation, EdTech)
+- **Generative AI** (content, tutoring, assessment, agent-like tools)
 
 **Key Highlights:**
 - 👔 Development Team Manager with experience leading high-performing engineering teams
