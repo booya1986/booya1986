@@ -1,22 +1,26 @@
-# Hi there! 👋
+### Hi there! 👋 I'm **Avi Levi**
 
-I'm **Avi Levi**, a Development Team Manager with a passion for **AI & ML**. 
+I'm **Avi Levi**, a L&D Team Leader with a passion for **AI**. 
 
 ## 🚀 About Me
-- 👔 Development Team Manager | 🤖 AI/ML Enthusiast
-- - 💡 Problem Solver - transforming solutions with modern AI
-  - - 📍 Based in Israel
-   
+
+I'm a development leader based in Israel with a strong focus on artificial intelligence, machine learning, and innovative product development. With extensive experience leading high-performing engineering teams, I'm passionate about transforming solutions using modern AI approaches and building impactful products.
+
+**Key Highlights:**
+- 👔 Development Team Manager with experience leading high-performing engineering teams
+- - 🤖 AI/ML Enthusiast actively working with artificial intelligence and machine learning technologies
+  - - 💡 Problem Solver who loves redesigning existing solutions using modern AI approaches
+    - - 🎓 EdTech Advocate exploring how AI can revolutionize educational content and learning experiences
+      - - 📍 Location: Israel
     - ## 🛠️ Tech Stack
     - **Frontend:** HTML, CSS, TypeScript | **Backend:** Swift, TypeScript | **AI/ML:** Machine Learning, NLP, Claude API
-   
-    - ## 📂 Featured Projects
-    - - **AI-First-Instructional-Design-Platform** - AI-powered EdTech solutions
-      - - **ai-audio-digest** - Audio/video transcription in Hebrew & other languages
-        - - **avi-os-portfolio** - My digital portfolio
-          - - **ai-tools** - Curated AI tools collection
-            - - **PRD_Template** - Product Requirements Document template
-             
+ 
+- ## 📂 Featured Projects
+    - **AI-First-Instructional-Design-Platform** - AI-powered EdTech solutions for educational content creation
+    - - **ai-audio-digest** - Audio/video transcription service in Hebrew and other languages
+      - - **avi-os-portfolio** - My comprehensive digital portfolio and professional work
+        - - **ai-tools** - Curated collection of AI tools and utilities for development
+          - - **PRD_Template** - Professional Product Requirements Document template
               - ## 📊 GitHub Stats
               - [![GitHub Stats](https://camo.githubusercontent.com/f154542ce07d465600bc0aaa2a2f067ca20521c2cc6aafc7a3640da6682af903/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d626f6f7961313938362673686f775f69636f6e733d74727565267468656d653d6461726b)](https://github.com/booya1986)
              
