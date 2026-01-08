@@ -1,7 +1,8 @@
 ### Hi there! 👋 I'm **Avi Levi**
 
-#### 🙋‍♂️ About me
+I lead Learning & Development in a large bank in Israel, and I build tools that help people and organizations learn faster, better, and with measurable impact. I care about **practical AI**, **learning systems**, and turning “training” into **real performance improvement**.
 
+#### ✌️ About Me 
 I’m a learning & development leader in a large bank in Israel, focused on building learning systems and experiences that actually move the needle in the business. Over the last few years, I’ve been living at the intersection of:
 
 - **L&D strategy** (skills, performance, adoption, measurement)
