@@ -1,8 +1,6 @@
 ### Hi there! 👋 I'm **Avi Levi**
 
-I'm **Avi Levi**, a L&D Team Leader with a passion for **AI**. 
-
-### 🚀 About Me
+#### 🙋‍♂️ About me
 
 I'm a Learning and Development Team Leader with a strong focus on artificial intelligence and innovative product development. I'm passionate about transforming solutions using modern AI approaches and building impactful products.
 
