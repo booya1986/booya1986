@@ -2,9 +2,9 @@
 
 I'm **Avi Levi**, a L&D Team Leader with a passion for **AI**. 
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a development leader based in Israel with a strong focus on artificial intelligence, machine learning, and innovative product development. With extensive experience leading high-performing engineering teams, I'm passionate about transforming solutions using modern AI approaches and building impactful products.
+I'm a Learning and Development Team Leader with a strong focus on artificial intelligence and innovative product development. I'm passionate about transforming solutions using modern AI approaches and building impactful products.
 
 **Key Highlights:**
 - 👔 Development Team Manager with experience leading high-performing engineering teams
